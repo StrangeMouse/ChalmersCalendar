@@ -53,7 +53,7 @@ out_cal = Calendar(events=all_events)
 
 out_cal_str = out_cal.serialize()
 lines = out_cal_str.splitlines()
-lines.insert(1, "X-WR-CALNAME:Schema TKMED-1")
+lines.insert(2, "X-WR-CALNAME:Schema TKMED-1")
 
 with open("custom.ics", "w", encoding="utf-8") as f:
     f.write("\r\n".join(lines))

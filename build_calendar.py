@@ -1,5 +1,6 @@
 import requests
 from ics import Calendar
+import ics
 import re
 
 
@@ -49,6 +50,10 @@ print(all_events)
 
 # Write back
 out_cal = Calendar(events=all_events)
-out_cal.extra.append(("X-WR-CALNAME", "Schema TKMED-1"))
+
+out_cal_str = out_cal.serialize()
+lines = out_cal_str.splitlines()
+lines.insert(1, "X-WR-CALNAME:Schema TKMED-1")
+
 with open("custom.ics", "w", encoding="utf-8") as f:
-    f.writelines(out_cal)
+    f.write("\r\n".join(lines))

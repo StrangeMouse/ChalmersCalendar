@@ -1,0 +1,32 @@
+name: Build custom calendar
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # run every night at 03:00 UTC
+  workflow_dispatch:       # manual trigger
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Run script
+        run: python build_calendar.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add custom.ics
+          git commit -m "Update calendar"
+          git push

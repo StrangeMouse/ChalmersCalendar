@@ -26,9 +26,14 @@ for chalmersE in chalmersC.events:
 
     kurs_namn = kurs_match.group(1).strip() if kurs_match else None
     activity = activity_match.group(1).strip() if activity_match else None
-    kurskod = kurskod_match.group(1).strip() if kurskod_match else None 
+    kurskod = kurskod_match.group(1).strip() if kurskod_match else None
+    if kurs_namn and activity:
+        chalmersE.name = f"{kurs_namn} - {activity}"  # change name to shorter version
+    elif not kurs_namn:
+        chalmersE.name = f"{activity}"  # only activity
+    elif not activity:
+        chalmersE.name = f"{kurs_namn}"  # only activity
 
-    chalmersE.name = f"{kurs_namn} - {activity}"  # change name to shorter version
     chalmersE.description = ""  # remove description
 
 
@@ -44,5 +49,6 @@ print(all_events)
 
 # Write back
 out_cal = Calendar(events=all_events)
+out_cal.extra.append("X-WR-CALNAME", "Schema TKMED-1")
 with open("custom.ics", "w", encoding="utf-8") as f:
     f.writelines(out_cal)

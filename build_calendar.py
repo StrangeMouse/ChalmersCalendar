@@ -32,9 +32,7 @@ for chalmersE in chalmersC.events:
     chalmersE.description = ""  # remove description
 
 
-##    for guMedE in guMedC:
-
-    if not kurskod_match == guMedCode:
+    if not kurskod == guMedCode:
         all_events.append(chalmersE)
 
 for guMedEvent in guMedC.events:

@@ -17,7 +17,7 @@ guMedData = requests.get(guMedTimeEdit)
 guMedC = Calendar(guMedData.text)
 
 for chalmersE in chalmersC.events:
-    kurs_match = re.search(r"Kurs namn:\s*([^,\.]+)", chalmersE.name)
+    kurs_match = re.search(r"(?:Kurs namn:|Titel:)\s*([^,\.]+)", chalmersE.name)
     activity_match = re.search(r"Activity:\s*([^,\.]+)", chalmersE.name)
 
     kurskod_match = re.search(r"Kurs kod:\s*([^,\._]+)", chalmersE.name)

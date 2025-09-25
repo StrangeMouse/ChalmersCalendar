@@ -42,7 +42,7 @@ for chalmersE in chalmersC.events:
         all_events.append(chalmersE)
 
 for guMedEvent in guMedC.events:
-    guMedEvent.name = f"Medicin för tekniker - {guMedEvent.name.split(",", 1)[1].strip()}"
+    guMedEvent.name = f"Medicin för tekniker - {guMedEvent.name.split(",", 1)[1].strip() if (len(guMedEvent.name.split(",", 1)) > 1) else guMedEvent.name}"
     all_events.append(guMedEvent)
 
 

@@ -32,12 +32,12 @@ for chalmersE in chalmersC.events:
     kurskod = kurskod_match.group(1).strip() if kurskod_match else None
     if kurs_namn and activity:
         chalmersE.name = f"{kurs_namn} - {activity}"  # change name to shorter version
+    elif not kurs_namn and not activity:
+        chalmersE.name = f"{chalmersE.name}"  # keep original name
     elif not kurs_namn:
         chalmersE.name = f"{activity}"  # only activity
     elif not activity:
         chalmersE.name = f"{kurs_namn}"  # only activity
-    else:
-        chalmersE.name = f"{chalmersE.name}"  # fallback to original
 
     chalmersE.description = ""  # remove description
 

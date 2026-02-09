@@ -3,48 +3,18 @@ VERSION:2.0
 X-WR-CALNAME:Schema TKMED-1
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260203T160000Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: MT11. Kartlänk: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT12. Kartlänk: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT13. Kartlänk: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Antal datorer: 24. Campus: Johanneberg
-DTSTART:20260203T141500Z
-SUMMARY:Grundläggande programutveckling
-UID:103844-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260206T104500Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260206T090000Z
-SUMMARY:Grundläggande programutveckling
-UID:103780-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260205T160000Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: EL41. Campus: Johanneberg
-DTSTART:20260205T141500Z
-SUMMARY:TMV143 Linjär algebra\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
-UID:129267-569704435-0@timeedit.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260203T104500Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260203T090000Z
+DTSTAMP:20260209T050746Z
+DTEND:20260310T140000Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: EL41. Campus: Johanneberg \nLokalnamn: EL42. Campus: Johanneberg \nLokalnamn: EL43. Campus: Johanneberg
+DTSTART:20260310T121500Z
 SUMMARY:Linjär algebra
-UID:63792-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
+UID:63813-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260305T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg
 DTSTART:20260305T121500Z
 SUMMARY:Linjär algebra
@@ -52,9 +22,9 @@ UID:63820-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260226T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg
 DTSTART:20260226T121500Z
 SUMMARY:Linjär algebra
@@ -62,9 +32,39 @@ UID:63819-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
+DTEND:20260313T104500Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
+DTSTART:20260313T090000Z
+SUMMARY:Grundläggande programutveckling
+UID:103786-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
+DTEND:20260311T140000Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: SB-D209. Kartlänk: https://maps.chalmers.se/#50129532-ca4c-4e48-bfa4-fe36182cc615. Antal datorer: 32. Campus: Johanneberg
+DTSTART:20260311T121500Z
+SUMMARY:DAT446 Grundläggande programutveckling\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
+UID:129262-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#50129532-ca4c-4e48-bfa4-fe36182cc615
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
+DTEND:20260312T160000Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: MT11. Kartlänk: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT12. Kartlänk: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT13. Kartlänk: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Antal datorer: 24. Campus: Johanneberg
+DTSTART:20260312T141500Z
+SUMMARY:Grundläggande programutveckling
+UID:103946-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
 DTEND:20260209T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260209T121500Z
 SUMMARY:Grundläggande programutveckling
@@ -72,17 +72,17 @@ UID:103774-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260227T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 DTSTART:20260227T131500Z
 SUMMARY:Medicin för tekniker
 UID:88938-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260210T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: MT11. Kartlänk: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT12. Kartlänk: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT13. Kartlänk: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Antal datorer: 24. Campus: Johanneberg
 DTSTART:20260210T141500Z
 SUMMARY:Grundläggande programutveckling
@@ -90,18 +90,18 @@ UID:103845-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260212T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: EL41. Campus: Johanneberg
 DTSTART:20260212T141500Z
 SUMMARY:TMV143 Linjär algebra\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
 UID:129268-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260213T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260213T121500Z
 SUMMARY:Grundläggande programutveckling
@@ -109,9 +109,9 @@ UID:103781-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260210T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260210T090000Z
 SUMMARY:Linjär algebra
@@ -119,26 +119,27 @@ UID:63793-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260203T140000Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: EL41. Campus: Johanneberg \nLokalnamn: EL42. Campus: Johanneberg \nLokalnamn: EL43. Campus: Johanneberg
-DTSTART:20260203T121500Z
+DTSTAMP:20260209T050746Z
+DTEND:20260312T140000Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg
+DTSTART:20260312T121500Z
 SUMMARY:Linjär algebra
-UID:63808-569704435-0@timeedit.com
+UID:63821-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260306T130000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 DTSTART:20260306T121500Z
 SUMMARY:Inledande medicinteknik
 UID:88933-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260227T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260227T090000Z
 SUMMARY:Linjär algebra
@@ -146,9 +147,9 @@ UID:63787-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260216T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HA1. Kartlänk: https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Campus: Johanneberg
 DTSTART:20260216T090000Z
 SUMMARY:Grundläggande programutveckling
@@ -156,9 +157,9 @@ UID:103775-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260226T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260226T090000Z
 SUMMARY:Linjär algebra
@@ -166,9 +167,9 @@ UID:63803-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260217T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: MT11. Kartlänk: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT12. Kartlänk: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT13. Kartlänk: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Antal datorer: 24. Campus: Johanneberg
 DTSTART:20260217T141500Z
 SUMMARY:Grundläggande programutveckling
@@ -176,27 +177,27 @@ UID:103846-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260226T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: EL41. Campus: Johanneberg
 DTSTART:20260226T141500Z
 SUMMARY:TMV143 Linjär algebra\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
 UID:129270-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260219T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: EL41. Campus: Johanneberg
 DTSTART:20260219T141500Z
 SUMMARY:TMV143 Linjär algebra\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
 UID:129269-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260225T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260225T121500Z
 SUMMARY:Grundläggande programutveckling
@@ -204,66 +205,55 @@ UID:103782-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260217T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: GD-Salen. Campus: Johanneberg
 DTSTART:20260217T090000Z
 SUMMARY:Linjär algebra
 UID:63794-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260205T084500Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: SB-D309. Kartlänk: https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860. Antal datorer: 32. Campus: Johanneberg \nLokalnamn: SB-D409. Kartlänk: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8. Antal datorer: 32. Campus: Johanneberg
-DTSTART:20260205T070000Z
-SUMMARY:Grundläggande programutveckling
-UID:103890-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260206T084500Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: SB-D409. Kartlänk: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8. Antal datorer: 32. Campus: Johanneberg
-DTSTART:20260206T070000Z
-SUMMARY:DAT446 Grundläggande programutveckling\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
-UID:129257-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260204T140000Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: SB-D025. Kartlänk: https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: SB-D080. Kartlänk: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Antal datorer: 62. Campus: Johanneberg \nLokalnamn: SB-D409. Kartlänk: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8. Antal datorer: 32. Campus: Johanneberg
-DTSTART:20260204T121500Z
-SUMMARY:Grundläggande programutveckling
-UID:103877-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260217T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: EL41. Campus: Johanneberg \nLokalnamn: EL42. Campus: Johanneberg \nLokalnamn: EL43. Campus: Johanneberg
 DTSTART:20260217T121500Z
 SUMMARY:Linjär algebra
 UID:63810-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260210T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: EL41. Campus: Johanneberg \nLokalnamn: EL42. Campus: Johanneberg \nLokalnamn: EL43. Campus: Johanneberg
 DTSTART:20260210T121500Z
 SUMMARY:Linjär algebra
 UID:63809-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
+DTEND:20260313T084500Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: SB-D025. Kartlänk: https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: SB-D040. Kartlänk: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Antal datorer: 32. Campus: Johanneberg \nLokalnamn: SB-D080. Kartlänk: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Antal datorer: 62. Campus: Johanneberg
+DTSTART:20260313T070000Z
+SUMMARY:Grundläggande programutveckling
+UID:103948-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
+DTEND:20260219T104500Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: GD-Salen. Campus: Johanneberg
+DTSTART:20260219T090000Z
+SUMMARY:Linjär algebra
+UID:63788-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
 DTEND:20260223T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260223T090000Z
 SUMMARY:Grundläggande programutveckling
@@ -271,28 +261,9 @@ UID:103776-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260219T104500Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: GD-Salen. Campus: Johanneberg
-DTSTART:20260219T090000Z
-SUMMARY:Linjär algebra
-UID:63788-569704435-0@timeedit.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260205T140000Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg
-DTSTART:20260205T121500Z
-SUMMARY:Linjär algebra
-UID:63816-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260305T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260305T090000Z
 SUMMARY:Linjär algebra
@@ -300,9 +271,9 @@ UID:63804-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260303T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: MT11. Kartlänk: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT12. Kartlänk: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT13. Kartlänk: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Antal datorer: 24. Campus: Johanneberg
 DTSTART:20260303T141500Z
 SUMMARY:Grundläggande programutveckling
@@ -310,18 +281,18 @@ UID:103847-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260306T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: EL41. Campus: Johanneberg
 DTSTART:20260306T121500Z
 SUMMARY:TMV143 Linjär algebra\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
 UID:129271-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260224T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: MT11. Kartlänk: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT12. Kartlänk: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT13. Kartlänk: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Antal datorer: 24. Campus: Johanneberg
 DTSTART:20260224T141500Z
 SUMMARY:Grundläggande programutveckling
@@ -329,9 +300,9 @@ UID:103900-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260224T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260224T090000Z
 SUMMARY:Linjär algebra
@@ -339,9 +310,9 @@ UID:63795-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260212T084500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: SB-D040. Kartlänk: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Antal datorer: 32. Campus: Johanneberg \nLokalnamn: SB-D042. Kartlänk: https://maps.chalmers.se/#e1ae8ada-dc54-494b-8620-7e46de24e46c. Antal datorer: 44. Campus: Johanneberg \nLokalnamn: SB-D080. Kartlänk: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Antal datorer: 62. Campus: Johanneberg
 DTSTART:20260212T070000Z
 SUMMARY:Grundläggande programutveckling
@@ -349,9 +320,9 @@ UID:103891-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260213T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: SB-D209. Kartlänk: https://maps.chalmers.se/#50129532-ca4c-4e48-bfa4-fe36182cc615. Antal datorer: 32. Campus: Johanneberg
 DTSTART:20260213T090000Z
 SUMMARY:DAT446 Grundläggande programutveckling\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
@@ -359,9 +330,9 @@ UID:129258-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#50129532-ca4c-4e48-bfa4-fe36182cc615
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260211T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: SB-D023. Kartlänk: https://maps.chalmers.se/#9e4318c0-aeb6-41a2-a7b0-f4e279a71ea3. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: SB-D025. Kartlänk: https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: SB-D080. Kartlänk: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Antal datorer: 62. Campus: Johanneberg
 DTSTART:20260211T121500Z
 SUMMARY:Grundläggande programutveckling
@@ -369,26 +340,45 @@ UID:103878-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#9e4318c0-aeb6-41a2-a7b0-f4e279a71ea3
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260223T120000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 DTSTART:20260223T110000Z
 SUMMARY:Anmälan omtenta påsk öppnar
 UID:8298-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
+DTEND:20260313T160000Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: EL41. Campus: Johanneberg \nLokalnamn: EL42. Campus: Johanneberg \nLokalnamn: EL43. Campus: Johanneberg
+DTSTART:20260313T141500Z
+SUMMARY:Linjär algebra
+UID:63823-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
 DTEND:20260224T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: EL41. Campus: Johanneberg \nLokalnamn: EL42. Campus: Johanneberg \nLokalnamn: EL43. Campus: Johanneberg
 DTSTART:20260224T121500Z
 SUMMARY:Linjär algebra
 UID:63811-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
+DTEND:20260312T104500Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
+DTSTART:20260312T090000Z
+SUMMARY:Linjär algebra
+UID:63789-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
 DTEND:20260302T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260302T121500Z
 SUMMARY:Grundläggande programutveckling
@@ -396,9 +386,9 @@ UID:103777-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260212T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg
 DTSTART:20260212T121500Z
 SUMMARY:Linjär algebra
@@ -406,9 +396,29 @@ UID:63817-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
+DTEND:20260313T140000Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
+DTSTART:20260313T121500Z
+SUMMARY:Linjär algebra
+UID:63805-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
+DTEND:20260311T104500Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: ML13. Kartlänk: https://maps.chalmers.se/#4fe4cd01-9520-4199-b91a-58642254c5e5. Campus: Johanneberg
+DTSTART:20260311T090000Z
+SUMMARY:TMV143 Linjär algebra\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
+UID:129272-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#4fe4cd01-9520-4199-b91a-58642254c5e5
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
 DTEND:20260226T084500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: SB-D025. Kartlänk: https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: SB-D040. Kartlänk: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Antal datorer: 32. Campus: Johanneberg \nLokalnamn: SB-D080. Kartlänk: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Antal datorer: 62. Campus: Johanneberg
 DTSTART:20260226T070000Z
 SUMMARY:Grundläggande programutveckling
@@ -416,26 +426,26 @@ UID:103901-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260303T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: GD-Salen. Campus: Johanneberg
 DTSTART:20260303T090000Z
 SUMMARY:Linjär algebra
 UID:63796-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260218T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 DTSTART:20260218T090000Z
 SUMMARY:CHARM
 UID:14911-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260227T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: SB-D309. Kartlänk: https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860. Antal datorer: 32. Campus: Johanneberg
 DTSTART:20260227T121500Z
 SUMMARY:DAT446 Grundläggande programutveckling\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
@@ -443,9 +453,19 @@ UID:129260-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
+DTEND:20260310T160000Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: MT11. Kartlänk: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT12. Kartlänk: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT13. Kartlänk: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Antal datorer: 24. Campus: Johanneberg
+DTSTART:20260310T141500Z
+SUMMARY:Grundläggande programutveckling
+UID:103944-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
 DTEND:20260220T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: SB-D409. Kartlänk: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8. Antal datorer: 32. Campus: Johanneberg
 DTSTART:20260220T090000Z
 SUMMARY:DAT446 Grundläggande programutveckling\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
@@ -453,9 +473,9 @@ UID:129259-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260219T084500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: SB-D040. Kartlänk: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Antal datorer: 32. Campus: Johanneberg \nLokalnamn: SB-D042. Kartlänk: https://maps.chalmers.se/#e1ae8ada-dc54-494b-8620-7e46de24e46c. Antal datorer: 44. Campus: Johanneberg \nLokalnamn: SB-D080. Kartlänk: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Antal datorer: 62. Campus: Johanneberg
 DTSTART:20260219T070000Z
 SUMMARY:Grundläggande programutveckling
@@ -463,19 +483,9 @@ UID:103892-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260206T140000Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260206T121500Z
-SUMMARY:Linjär algebra
-UID:63784-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260304T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: SB-D025. Kartlänk: https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: SB-D040. Kartlänk: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Antal datorer: 32. Campus: Johanneberg \nLokalnamn: SB-D080. Kartlänk: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Antal datorer: 62. Campus: Johanneberg
 DTSTART:20260304T121500Z
 SUMMARY:Grundläggande programutveckling
@@ -483,9 +493,9 @@ UID:103880-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260218T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: MT11. Kartlänk: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT12. Kartlänk: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT13. Kartlänk: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Antal datorer: 24. Campus: Johanneberg
 DTSTART:20260218T141500Z
 SUMMARY:Grundläggande programutveckling
@@ -493,45 +503,53 @@ UID:103879-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260314
+DTSTAMP:20260209T050746Z
+LAST-MODIFIED:20260209T050746Z
+SUMMARY:Tentamen/exam
+UID:8299-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260209T050746Z
 DTEND:20260306T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: EL41. Campus: Johanneberg \nLokalnamn: EL42. Campus: Johanneberg \nLokalnamn: EL43. Campus: Johanneberg
 DTSTART:20260306T141500Z
 SUMMARY:Linjär algebra
 UID:63824-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260303T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: EL41. Campus: Johanneberg \nLokalnamn: EL42. Campus: Johanneberg \nLokalnamn: EL43. Campus: Johanneberg
 DTSTART:20260303T121500Z
 SUMMARY:Linjär algebra
 UID:63812-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260205T104500Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260205T090000Z
-SUMMARY:Linjär algebra
-UID:63800-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
+DTSTAMP:20260209T050746Z
+DTEND:20260309T140000Z
+LAST-MODIFIED:20260209T050746Z
+LOCATION:Lokalnamn: SB-H1. Kartlänk: https://maps.chalmers.se/#56936c80-6cb7-4a3e-be43-4c6458006683. Campus: Johanneberg
+DTSTART:20260309T121500Z
+SUMMARY:Grundläggande programutveckling
+UID:103778-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#56936c80-6cb7-4a3e-be43-4c6458006683
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260227T130000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 DTSTART:20260227T121500Z
 SUMMARY:Matematisk analys i en variabel
 UID:88500-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260219T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg
 DTSTART:20260219T121500Z
 SUMMARY:Linjär algebra
@@ -539,9 +557,9 @@ UID:63818-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260304T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260304T090000Z
 SUMMARY:Grundläggande programutveckling
@@ -549,9 +567,9 @@ UID:103797-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260225T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: SB-D040. Kartlänk: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Antal datorer: 32. Campus: Johanneberg \nLokalnamn: SB-D042. Kartlänk: https://maps.chalmers.se/#e1ae8ada-dc54-494b-8620-7e46de24e46c. Antal datorer: 44. Campus: Johanneberg \nLokalnamn: SB-D080. Kartlänk: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Antal datorer: 62. Campus: Johanneberg
 DTSTART:20260225T141500Z
 SUMMARY:Grundläggande programutveckling
@@ -559,9 +577,9 @@ UID:103902-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260220T140000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
 DTSTART:20260220T121500Z
 SUMMARY:Grundläggande programutveckling
@@ -569,27 +587,27 @@ UID:103785-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260212T104500Z
-LAST-MODIFIED:20260208T050759Z
+DTSTAMP:20260209T050746Z
+DTEND:20260310T104500Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260212T090000Z
+DTSTART:20260310T090000Z
 SUMMARY:Linjär algebra
-UID:94830-569704435-0@timeedit.com
+UID:63797-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260217T150000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 DTSTART:20260217T120000Z
 SUMMARY:CHARM
 UID:14912-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260306T104500Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: SB-D409. Kartlänk: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8. Antal datorer: 32. Campus: Johanneberg
 DTSTART:20260306T090000Z
 SUMMARY:DAT446 Grundläggande programutveckling\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
@@ -597,9 +615,9 @@ UID:129261-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
+DTSTAMP:20260209T050746Z
 DTEND:20260305T160000Z
-LAST-MODIFIED:20260208T050759Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: MT10. Kartlänk: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Antal datorer: 25. Campus: Johanneberg \nLokalnamn: MT11. Kartlänk: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT12. Kartlänk: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Antal datorer: 18. Campus: Johanneberg \nLokalnamn: MT13. Kartlänk: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Antal datorer: 24. Campus: Johanneberg
 DTSTART:20260305T141500Z
 SUMMARY:Grundläggande programutveckling
@@ -607,22 +625,13 @@ UID:103893-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260202T140000Z
-LAST-MODIFIED:20260208T050759Z
+DTSTAMP:20260209T050746Z
+DTEND:20260212T104500Z
+LAST-MODIFIED:20260209T050746Z
 LOCATION:Lokalnamn: HB4. Kartlänk: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260202T121500Z
-SUMMARY:Grundläggande programutveckling
-UID:103773-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260208T050759Z
-DTEND:20260206T160000Z
-LAST-MODIFIED:20260208T050759Z
-LOCATION:Lokalnamn: EL41. Campus: Johanneberg \nLokalnamn: EL42. Campus: Johanneberg \nLokalnamn: EL43. Campus: Johanneberg
-DTSTART:20260206T141500Z
+DTSTART:20260212T090000Z
 SUMMARY:Linjär algebra
-UID:63825-569704435-0@timeedit.com
+UID:94830-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
 END:VEVENT
 END:VCALENDAR

@@ -1,6 +1,5 @@
 import requests
 from ics import Calendar
-import ics
 import re
 
 

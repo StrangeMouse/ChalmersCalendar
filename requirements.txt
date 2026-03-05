@@ -1,3 +1,2 @@
 requests
-tatsu==4.4.0
 ics

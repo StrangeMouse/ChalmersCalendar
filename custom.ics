@@ -3,587 +3,551 @@ VERSION:2.0
 X-WR-CALNAME:Schema TKMED-1
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260310T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: EL41. Map link: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg \nRoom: EL42. Map link: https://maps.chalmers.se/#a3231f8a-0581-435e-9461-567ff1cafaf5. Campus: Johanneberg \nRoom: EL43. Map link: https://maps.chalmers.se/#5ec829c9-7377-479f-a055-fe05d7449838. Campus: Johanneberg
-DTSTART:20260310T121500Z
-SUMMARY:Linjär algebra - Övning
-UID:63813-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260219T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: GD-Salen. Map link: https://maps.chalmers.se/#94e0c95e-6b84-4069-a944-b5e477b4a9e9. Campus: Johanneberg
-DTSTART:20260219T090000Z
-SUMMARY:Linjär algebra - Föreläsning
-UID:63788-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#94e0c95e-6b84-4069-a944-b5e477b4a9e9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260223T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260223T090000Z
-SUMMARY:Grundläggande programutveckling - Föreläsning
-UID:103776-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260320
-DTEND;VALUE=DATE:20260320
-DTSTAMP:20260216T050552Z
-LAST-MODIFIED:20260216T050552Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260530
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
 SUMMARY:Title: Tentamen/exam
-UID:8301-569704435-0@timeedit.com
+UID:8313-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260317
-DTEND;VALUE=DATE:20260317
-DTSTAMP:20260216T050552Z
-LAST-MODIFIED:20260216T050552Z
-SUMMARY:Title: Tentamen/exam
-UID:8304-569704435-0@timeedit.com
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260606
+DTSTAMP:20260505T054754Z
+DESCRIPTION:2026-06-05 22:00 - 2026-06-06 22:00\nID 1820409
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Medicin för tekniker - Sveriges nationaldag
+UID:1820409-1094642488-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260305T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260305T090000Z
-SUMMARY:Linjär algebra - Föreläsning
-UID:63804-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
+DTSTAMP:20260505T054754Z
+DTEND:20260525T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB3-L110. Kartlänk: https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c. Campus: Johanneberg \nLokalnamn: SB3-L111. Kartlänk: https://maps.chalmers.se/#d49e08b0-45fa-11ec-adea-17a2f032c1c2. Campus: Johanneberg
+DTSTART:20260525T080000Z
+SUMMARY:Flervariabelanalys
+UID:102330-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260303T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg \nRoom: MT11. Map link: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Computer: 18. Campus: Johanneberg \nRoom: MT12. Map link: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Computer: 18. Campus: Johanneberg \nRoom: MT13. Map link: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Computer: 24. Campus: Johanneberg
-DTSTART:20260303T141500Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103847-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260306T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: EL41. Map link: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg
-DTSTART:20260306T121500Z
-SUMMARY:Studentledd undervisning
-UID:129271-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260224T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg \nRoom: MT11. Map link: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Computer: 18. Campus: Johanneberg \nRoom: MT12. Map link: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Computer: 18. Campus: Johanneberg \nRoom: MT13. Map link: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Computer: 24. Campus: Johanneberg
-DTSTART:20260224T141500Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103900-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260305T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg
-DTSTART:20260305T121500Z
-SUMMARY:Linjär algebra - Laboration
-UID:63820-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260224T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260224T090000Z
-SUMMARY:Linjär algebra - Föreläsning
-UID:63795-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260226T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg
-DTSTART:20260226T121500Z
-SUMMARY:Linjär algebra - Laboration
-UID:63819-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260313T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: EL41. Map link: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg \nRoom: EL42. Map link: https://maps.chalmers.se/#a3231f8a-0581-435e-9461-567ff1cafaf5. Campus: Johanneberg \nRoom: EL43. Map link: https://maps.chalmers.se/#5ec829c9-7377-479f-a055-fe05d7449838. Campus: Johanneberg
-DTSTART:20260313T141500Z
-SUMMARY:Linjär algebra - Övning
-UID:63823-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260223T120000Z
-LAST-MODIFIED:20260216T050552Z
-DTSTART:20260223T110000Z
-SUMMARY:Title: Anmälan omtenta påsk öppnar
-UID:8298-569704435-0@timeedit.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260313T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260313T090000Z
-SUMMARY:Grundläggande programutveckling - Föreläsning
-UID:103786-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260311T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: SB-D209. Map link: https://maps.chalmers.se/#50129532-ca4c-4e48-bfa4-fe36182cc615. Computer: 32. Campus: Johanneberg
-DTSTART:20260311T121500Z
-SUMMARY:Studentledd undervisning
-UID:129262-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#50129532-ca4c-4e48-bfa4-fe36182cc615
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260312T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg \nRoom: MT11. Map link: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Computer: 18. Campus: Johanneberg \nRoom: MT12. Map link: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Computer: 18. Campus: Johanneberg \nRoom: MT13. Map link: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Computer: 24. Campus: Johanneberg
-DTSTART:20260312T141500Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103946-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260224T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: EL41. Map link: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg \nRoom: EL42. Map link: https://maps.chalmers.se/#a3231f8a-0581-435e-9461-567ff1cafaf5. Campus: Johanneberg \nRoom: EL43. Map link: https://maps.chalmers.se/#5ec829c9-7377-479f-a055-fe05d7449838. Campus: Johanneberg
-DTSTART:20260224T121500Z
-SUMMARY:Linjär algebra - Övning
-UID:63811-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260312T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260312T090000Z
-SUMMARY:Linjär algebra - Föreläsning
-UID:63789-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260302T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260302T121500Z
-SUMMARY:Grundläggande programutveckling - Föreläsning
-UID:103777-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260319
-DTSTAMP:20260216T050552Z
-LAST-MODIFIED:20260216T050552Z
-SUMMARY:Title: Tentamen/exam
-UID:8302-569704435-0@timeedit.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260227T140000Z
-LAST-MODIFIED:20260216T050552Z
-DTSTART:20260227T131500Z
-SUMMARY:Medicin för tekniker - Kursnämndsmöte
-UID:88938-569704435-0@timeedit.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260313T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260313T121500Z
-SUMMARY:Linjär algebra - Föreläsning
-UID:63805-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260316
-DTEND;VALUE=DATE:20260316
-DTSTAMP:20260216T050552Z
-LAST-MODIFIED:20260216T050552Z
-SUMMARY:Title: Tentamen/exam
-UID:8305-569704435-0@timeedit.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260311T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: ML13. Map link: https://maps.chalmers.se/#4fe4cd01-9520-4199-b91a-58642254c5e5. Campus: Johanneberg
-DTSTART:20260311T090000Z
-SUMMARY:Studentledd undervisning
-UID:129272-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#4fe4cd01-9520-4199-b91a-58642254c5e5
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260226T084500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: SB-D025. Map link: https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687. Computer: 25. Campus: Johanneberg \nRoom: SB-D040. Map link: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Computer: 32. Campus: Johanneberg \nRoom: SB-D080. Map link: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Computer: 62. Campus: Johanneberg
-DTSTART:20260226T070000Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103901-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260303T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: GD-Salen. Map link: https://maps.chalmers.se/#94e0c95e-6b84-4069-a944-b5e477b4a9e9. Campus: Johanneberg
-DTSTART:20260303T090000Z
-SUMMARY:Linjär algebra - Föreläsning
-UID:63796-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#94e0c95e-6b84-4069-a944-b5e477b4a9e9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260312T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg
-DTSTART:20260312T121500Z
-SUMMARY:Linjär algebra - Laboration
-UID:63821-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260218T140000Z
-LAST-MODIFIED:20260216T050552Z
-DTSTART:20260218T090000Z
-SUMMARY:Title: CHARM
-UID:14911-569704435-0@timeedit.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260227T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: SB-D309. Map link: https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860. Computer: 32. Campus: Johanneberg
-DTSTART:20260227T121500Z
-SUMMARY:Studentledd undervisning
-UID:129260-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#c108cdcb-c9ce-4f6b-b12f-10e3a54fd860
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260310T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg \nRoom: MT11. Map link: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Computer: 18. Campus: Johanneberg \nRoom: MT12. Map link: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Computer: 18. Campus: Johanneberg \nRoom: MT13. Map link: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Computer: 24. Campus: Johanneberg
-DTSTART:20260310T141500Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103944-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260220T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: SB-D409. Map link: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8. Computer: 32. Campus: Johanneberg
-DTSTART:20260220T090000Z
-SUMMARY:Studentledd undervisning
-UID:129259-569704435-0@timeedit.com
+DTSTAMP:20260505T054754Z
+DTEND:20260520T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB-D409. Kartlänk: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8. Antal datorer: 32. Campus: Johanneberg \nLokalnamn: SB-D509. Kartlänk: https://maps.chalmers.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5. Antal datorer: 32. Campus: Johanneberg
+DTSTART:20260520T131500Z
+SUMMARY:Flervariabelanalys
+UID:115727-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260219T084500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: SB-D040. Map link: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Computer: 32. Campus: Johanneberg \nRoom: SB-D042. Map link: https://maps.chalmers.se/#e1ae8ada-dc54-494b-8620-7e46de24e46c. Computer: 44. Campus: Johanneberg \nRoom: SB-D080. Map link: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Computer: 62. Campus: Johanneberg
-DTSTART:20260219T070000Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103892-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413
+DTSTAMP:20260505T054754Z
+DTEND:20260526T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: EL41. Kartlänk: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg
+DTSTART:20260526T131500Z
+SUMMARY:Medicinsk elektronik
+UID:100944-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260304T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: SB-D025. Map link: https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687. Computer: 25. Campus: Johanneberg \nRoom: SB-D040. Map link: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Computer: 32. Campus: Johanneberg \nRoom: SB-D080. Map link: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Computer: 62. Campus: Johanneberg
-DTSTART:20260304T121500Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103880-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687
+DTSTAMP:20260505T054754Z
+DTEND:20260519T084500Z
+LAST-MODIFIED:20260505T054754Z
+DTSTART:20260519T070000Z
+SUMMARY:Medicinsk elektronik
+UID:151119-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260218T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg \nRoom: MT11. Map link: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Computer: 18. Campus: Johanneberg \nRoom: MT12. Map link: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Computer: 18. Campus: Johanneberg \nRoom: MT13. Map link: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Computer: 24. Campus: Johanneberg
-DTSTART:20260218T141500Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103879-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
+DTSTAMP:20260505T054754Z
+DTEND:20260518T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB3-L110. Kartlänk: https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c. Campus: Johanneberg \nLokalnamn: SB3-L111. Kartlänk: https://maps.chalmers.se/#d49e08b0-45fa-11ec-adea-17a2f032c1c2. Campus: Johanneberg
+DTSTART:20260518T080000Z
+SUMMARY:Flervariabelanalys
+UID:102329-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260306T130000Z
-LAST-MODIFIED:20260216T050552Z
-DTSTART:20260306T121500Z
-SUMMARY:Inledande medicinteknik - Kursnämndsmöte
-UID:88933-569704435-0@timeedit.com
+DTSTAMP:20260505T054754Z
+DTEND:20260521T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB3-L111. Kartlänk: https://maps.chalmers.se/#d49e08b0-45fa-11ec-adea-17a2f032c1c2. Campus: Johanneberg
+DTSTART:20260521T131500Z
+SUMMARY:Medicinsk elektronik
+UID:100960-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#d49e08b0-45fa-11ec-adea-17a2f032c1c2
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260314
-DTEND;VALUE=DATE:20260314
-DTSTAMP:20260216T050552Z
-LAST-MODIFIED:20260216T050552Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260603
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
 SUMMARY:Title: Tentamen/exam
-UID:8299-569704435-0@timeedit.com
+UID:8316-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260306T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: EL41. Map link: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg \nRoom: EL42. Map link: https://maps.chalmers.se/#a3231f8a-0581-435e-9461-567ff1cafaf5. Campus: Johanneberg \nRoom: EL43. Map link: https://maps.chalmers.se/#5ec829c9-7377-479f-a055-fe05d7449838. Campus: Johanneberg
-DTSTART:20260306T141500Z
-SUMMARY:Linjär algebra - Övning
-UID:63824-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
+DTSTAMP:20260505T054754Z
+DTEND:20260512T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HA2. Kartlänk: https://maps.chalmers.se/#116c4d8f-c9fc-40c2-aa44-2496da8cd671. Campus: Johanneberg
+DTSTART:20260512T111500Z
+SUMMARY:Medicinsk elektronik
+UID:100932-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#116c4d8f-c9fc-40c2-aa44-2496da8cd671
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260303T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: EL41. Map link: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg \nRoom: EL42. Map link: https://maps.chalmers.se/#a3231f8a-0581-435e-9461-567ff1cafaf5. Campus: Johanneberg \nRoom: EL43. Map link: https://maps.chalmers.se/#5ec829c9-7377-479f-a055-fe05d7449838. Campus: Johanneberg
-DTSTART:20260303T121500Z
-SUMMARY:Linjär algebra - Övning
-UID:63812-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
+DTSTAMP:20260505T054754Z
+DTEND:20260508T074500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HC4. Kartlänk: https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e. Campus: Johanneberg
+DTSTART:20260508T060000Z
+SUMMARY:Flervariabelanalys
+UID:102345-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260227T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260227T090000Z
-SUMMARY:Linjär algebra - Föreläsning
-UID:63787-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
+DTSTAMP:20260505T054754Z
+DTEND:20260512T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: E2 Kurslabb 5225. Kartlänk: https://maps.chalmers.se/#d3877982-ae64-40be-b1b7-810aa16b997e. Campus: Johanneberg
+DTSTART:20260512T060000Z
+SUMMARY:Medicinsk elektronik
+UID:100975-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#d3877982-ae64-40be-b1b7-810aa16b997e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260216T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HA1. Map link: https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea. Campus: Johanneberg
-DTSTART:20260216T090000Z
-SUMMARY:Grundläggande programutveckling - Föreläsning
-UID:103775-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#971e00c6-6f9a-46ce-9894-687adb1fa8ea
+DTSTAMP:20260505T054754Z
+DTEND:20260527T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HC4. Kartlänk: https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e. Campus: Johanneberg
+DTSTART:20260527T111500Z
+SUMMARY:Flervariabelanalys
+UID:102321-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260321
-DTEND;VALUE=DATE:20260321
-DTSTAMP:20260216T050552Z
-LAST-MODIFIED:20260216T050552Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260523
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Title: Pingstafton
+UID:6082-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260520T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: E2 Kurslabb 5225. Kartlänk: https://maps.chalmers.se/#d3877982-ae64-40be-b1b7-810aa16b997e. Campus: Johanneberg
+DTSTART:20260520T060000Z
+SUMMARY:Medicinsk elektronik
+UID:118582-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#d3877982-ae64-40be-b1b7-810aa16b997e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260507T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB-M022. Kartlänk: https://maps.chalmers.se/#25274916-559a-48d6-9345-a46878088453. Campus: Johanneberg
+DTSTART:20260507T111500Z
+SUMMARY:Medicinsk elektronik
+UID:100951-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#25274916-559a-48d6-9345-a46878088453
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260525T074500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HC4. Kartlänk: https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e. Campus: Johanneberg
+DTSTART:20260525T060000Z
+SUMMARY:Flervariabelanalys
+UID:102312-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260514
+DTSTAMP:20260505T054754Z
+DESCRIPTION:2026-05-13 22:00 - 2026-05-14 22:00\nID 1820406
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Medicin för tekniker - Kristi himmelsfärdsdag
+UID:1820406-1094642488-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260508T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB-L200. Kartlänk: https://maps.chalmers.se/#b7834339-e8ef-4c9a-b593-b89854ccfa72. Campus: Johanneberg
+DTSTART:20260508T111500Z
+SUMMARY:Title: TMA044 Flervariabelanalys\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
+UID:162850-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#b7834339-e8ef-4c9a-b593-b89854ccfa72
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260506T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: E-Studion. Kartlänk: https://maps.chalmers.se/#308d03c9-f6f2-4f92-ab22-f5b9b1ecf285. Antal datorer: 24. Campus: Johanneberg \nLokalnamn: ED2480. Kartlänk: https://maps.chalmers.se/#f30759ca-7f8b-4903-afe5-412a66e64320. Antal datorer: 20. Campus: Johanneberg
+DTSTART:20260506T131500Z
+SUMMARY:Flervariabelanalys
+UID:115725-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#308d03c9-f6f2-4f92-ab22-f5b9b1ecf285
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260504T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB3-L110. Kartlänk: https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c. Campus: Johanneberg \nLokalnamn: SB3-L111. Kartlänk: https://maps.chalmers.se/#d49e08b0-45fa-11ec-adea-17a2f032c1c2. Campus: Johanneberg
+DTSTART:20260504T080000Z
+SUMMARY:Flervariabelanalys
+UID:102327-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260601
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
 SUMMARY:Title: Tentamen/exam
-UID:8300-569704435-0@timeedit.com
+UID:8314-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260309T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: SB-H1. Map link: https://maps.chalmers.se/#56936c80-6cb7-4a3e-be43-4c6458006683. Campus: Johanneberg
-DTSTART:20260309T121500Z
-SUMMARY:Grundläggande programutveckling - Föreläsning
-UID:103778-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#56936c80-6cb7-4a3e-be43-4c6458006683
+DTSTAMP:20260505T054754Z
+DTEND:20260505T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: EA. Kartlänk: https://maps.chalmers.se/#b9c89c7c-b553-488c-b09e-d2c41f5e6259. Campus: Johanneberg \nLokalnamn: HA2. Kartlänk: https://maps.chalmers.se/#116c4d8f-c9fc-40c2-aa44-2496da8cd671. Campus: Johanneberg
+DTSTART:20260505T111500Z
+SUMMARY:Medicinsk elektronik
+UID:100930-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#b9c89c7c-b553-488c-b09e-d2c41f5e6259
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260318
-DTSTAMP:20260216T050552Z
-LAST-MODIFIED:20260216T050552Z
+DTSTAMP:20260505T054754Z
+DTEND:20260522T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB-L200. Kartlänk: https://maps.chalmers.se/#b7834339-e8ef-4c9a-b593-b89854ccfa72. Campus: Johanneberg
+DTSTART:20260522T111500Z
+SUMMARY:Title: TMA044 Flervariabelanalys\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
+UID:162853-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#b7834339-e8ef-4c9a-b593-b89854ccfa72
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260527T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: EL41. Kartlänk: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg \nLokalnamn: EL42. Kartlänk: https://maps.chalmers.se/#a3231f8a-0581-435e-9461-567ff1cafaf5. Campus: Johanneberg
+DTSTART:20260527T131500Z
+SUMMARY:Flervariabelanalys
+UID:115728-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260504T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: E2 Kurslabb 5225. Kartlänk: https://maps.chalmers.se/#d3877982-ae64-40be-b1b7-810aa16b997e. Campus: Johanneberg
+DTSTART:20260504T111500Z
+SUMMARY:Medicinsk elektronik
+UID:100973-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#d3877982-ae64-40be-b1b7-810aa16b997e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260519T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HA2. Kartlänk: https://maps.chalmers.se/#116c4d8f-c9fc-40c2-aa44-2496da8cd671. Campus: Johanneberg
+DTSTART:20260519T111500Z
+SUMMARY:Medicinsk elektronik
+UID:100933-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#116c4d8f-c9fc-40c2-aa44-2496da8cd671
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260522T074500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HC4. Kartlänk: https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e. Campus: Johanneberg
+DTSTART:20260522T060000Z
+SUMMARY:Flervariabelanalys
+UID:102346-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260604
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
 SUMMARY:Title: Tentamen/exam
-UID:8303-569704435-0@timeedit.com
+UID:8317-569704435-0@timeedit.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260226T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260226T090000Z
-SUMMARY:Linjär algebra - Föreläsning
-UID:63803-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
+DTSTAMP:20260505T054754Z
+DTEND:20260506T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HC4. Kartlänk: https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e. Campus: Johanneberg
+DTSTART:20260506T111500Z
+SUMMARY:Flervariabelanalys
+UID:102318-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260217T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg \nRoom: MT11. Map link: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Computer: 18. Campus: Johanneberg \nRoom: MT12. Map link: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Computer: 18. Campus: Johanneberg \nRoom: MT13. Map link: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Computer: 24. Campus: Johanneberg
-DTSTART:20260217T141500Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103846-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
+DTSTAMP:20260505T054754Z
+DTEND:20260513T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: E2 Kurslabb 5225. Kartlänk: https://maps.chalmers.se/#d3877982-ae64-40be-b1b7-810aa16b997e. Campus: Johanneberg
+DTSTART:20260513T060000Z
+SUMMARY:Medicinsk elektronik
+UID:100976-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#d3877982-ae64-40be-b1b7-810aa16b997e
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260226T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: EL41. Map link: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg
-DTSTART:20260226T141500Z
-SUMMARY:Studentledd undervisning
-UID:129270-569704435-0@timeedit.com
+DTSTAMP:20260505T054754Z
+DTEND:20260507T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: EA. Kartlänk: https://maps.chalmers.se/#b9c89c7c-b553-488c-b09e-d2c41f5e6259. Campus: Johanneberg
+DTSTART:20260507T080000Z
+SUMMARY:Medicinsk elektronik
+UID:100948-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#b9c89c7c-b553-488c-b09e-d2c41f5e6259
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260524
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Title: Pingstdagen
+UID:6083-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260522T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB3-L110. Kartlänk: https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c. Campus: Johanneberg \nLokalnamn: SB3-L111. Kartlänk: https://maps.chalmers.se/#d49e08b0-45fa-11ec-adea-17a2f032c1c2. Campus: Johanneberg
+DTSTART:20260522T080000Z
+SUMMARY:Flervariabelanalys
+UID:115719-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260523
+DTSTAMP:20260505T054754Z
+DESCRIPTION:2026-05-22 22:00 - 2026-05-23 22:00\nID 1820407
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Medicin för tekniker - Pingstafton
+UID:1820407-1094642488-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260511T074500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HC4. Kartlänk: https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e. Campus: Johanneberg
+DTSTART:20260511T060000Z
+SUMMARY:Flervariabelanalys
+UID:102310-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260507T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: E-Studion. Kartlänk: https://maps.chalmers.se/#308d03c9-f6f2-4f92-ab22-f5b9b1ecf285. Antal datorer: 24. Campus: Johanneberg
+DTSTART:20260507T131500Z
+SUMMARY:Medicinsk elektronik
+UID:100952-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#308d03c9-f6f2-4f92-ab22-f5b9b1ecf285
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260504T074500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HC4. Kartlänk: https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e. Campus: Johanneberg
+DTSTART:20260504T060000Z
+SUMMARY:Flervariabelanalys
+UID:102309-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260515
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Title: Självstudier/Self studies
+UID:8312-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260512T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: EL41. Kartlänk: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg
+DTSTART:20260512T131500Z
+SUMMARY:Title: TMA044 Flervariabelanalys\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
+UID:162851-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260227T130000Z
-LAST-MODIFIED:20260216T050552Z
-DTSTART:20260227T121500Z
-SUMMARY:Matematisk analys i en variabel - Kursnämndsmöte
-UID:88500-569704435-0@timeedit.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260225T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260225T121500Z
-SUMMARY:Grundläggande programutveckling - Föreläsning
-UID:103782-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260219T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: EL41. Map link: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg
-DTSTART:20260219T141500Z
-SUMMARY:Studentledd undervisning
-UID:129269-569704435-0@timeedit.com
+DTSTAMP:20260505T054754Z
+DTEND:20260519T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: EL41. Kartlänk: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg
+DTSTART:20260519T131500Z
+SUMMARY:Medicinsk elektronik
+UID:100943-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260219T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg
-DTSTART:20260219T121500Z
-SUMMARY:Linjär algebra - Laboration
-UID:63818-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260217T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: GD-Salen. Map link: https://maps.chalmers.se/#94e0c95e-6b84-4069-a944-b5e477b4a9e9. Campus: Johanneberg
-DTSTART:20260217T090000Z
-SUMMARY:Linjär algebra - Föreläsning
-UID:63794-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#94e0c95e-6b84-4069-a944-b5e477b4a9e9
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260304T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260304T090000Z
-SUMMARY:Grundläggande programutveckling - Föreläsning
-UID:103797-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260225T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: SB-D040. Map link: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Computer: 32. Campus: Johanneberg \nRoom: SB-D042. Map link: https://maps.chalmers.se/#e1ae8ada-dc54-494b-8620-7e46de24e46c. Computer: 44. Campus: Johanneberg \nRoom: SB-D080. Map link: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Computer: 62. Campus: Johanneberg
-DTSTART:20260225T141500Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103902-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260220T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260220T121500Z
-SUMMARY:Grundläggande programutveckling - Föreläsning
-UID:103785-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260310T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: HB4. Map link: https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e. Campus: Johanneberg
-DTSTART:20260310T090000Z
-SUMMARY:Linjär algebra - Föreläsning
-UID:63797-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#357c6694-3395-4255-86a4-73e8e99ed12e
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260217T150000Z
-LAST-MODIFIED:20260216T050552Z
-DTSTART:20260217T120000Z
-SUMMARY:Title: CHARM
-UID:14912-569704435-0@timeedit.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260306T104500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: SB-D409. Map link: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8. Computer: 32. Campus: Johanneberg
-DTSTART:20260306T090000Z
-SUMMARY:Studentledd undervisning
-UID:129261-569704435-0@timeedit.com
+DTSTAMP:20260505T054754Z
+DTEND:20260513T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB-D409. Kartlänk: https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8. Antal datorer: 32. Campus: Johanneberg \nLokalnamn: SB-D509. Kartlänk: https://maps.chalmers.se/#e1633b1c-d885-4c7f-aa9e-2013d9a617c5. Antal datorer: 32. Campus: Johanneberg
+DTSTART:20260513T131500Z
+SUMMARY:Flervariabelanalys
+UID:115726-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#6ee7d908-6be4-4faf-a503-1050d05550f8
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260305T160000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: MT10. Map link: https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f. Computer: 25. Campus: Johanneberg \nRoom: MT11. Map link: https://maps.chalmers.se/#7e6861a2-0590-4081-ab2b-8f87bea8da7c. Computer: 18. Campus: Johanneberg \nRoom: MT12. Map link: https://maps.chalmers.se/#efe068fe-748e-4c9c-b90f-1dfadd0e73ca. Computer: 18. Campus: Johanneberg \nRoom: MT13. Map link: https://maps.chalmers.se/#99b5fb65-561c-4a14-84fb-afbda476bd1d. Computer: 24. Campus: Johanneberg
-DTSTART:20260305T141500Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103893-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#7cf8aa90-c171-11ed-9d0e-e10689e94a1f
+DTSTAMP:20260505T054754Z
+DTEND:20260511T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB3-L110. Kartlänk: https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c. Campus: Johanneberg \nLokalnamn: SB3-L111. Kartlänk: https://maps.chalmers.se/#d49e08b0-45fa-11ec-adea-17a2f032c1c2. Campus: Johanneberg
+DTSTART:20260511T080000Z
+SUMMARY:Flervariabelanalys
+UID:102328-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260217T140000Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: EL41. Map link: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg \nRoom: EL42. Map link: https://maps.chalmers.se/#a3231f8a-0581-435e-9461-567ff1cafaf5. Campus: Johanneberg \nRoom: EL43. Map link: https://maps.chalmers.se/#5ec829c9-7377-479f-a055-fe05d7449838. Campus: Johanneberg
-DTSTART:20260217T121500Z
-SUMMARY:Linjär algebra - Övning
-UID:63810-569704435-0@timeedit.com
+DTSTAMP:20260505T054754Z
+DTEND:20260508T120000Z
+LAST-MODIFIED:20260505T054754Z
+DTSTART:20260508T111500Z
+SUMMARY:Linjär algebra
+UID:87917-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260602
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Title: Tentamen/exam
+UID:8315-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260521T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB3-L111. Kartlänk: https://maps.chalmers.se/#d49e08b0-45fa-11ec-adea-17a2f032c1c2. Campus: Johanneberg
+DTSTART:20260521T111500Z
+SUMMARY:Medicinsk elektronik
+UID:100958-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#d49e08b0-45fa-11ec-adea-17a2f032c1c2
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260529T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB-M415. Kartlänk: https://maps.chalmers.se/#bde804eb-2fb1-4f19-8483-383232abfdcf. Campus: Johanneberg
+DTSTART:20260529T080000Z
+SUMMARY:Title: TMA044 Flervariabelanalys\, Aktivitet: Studentledd undervisning\, Klasskod: TKELT-1. Klassnamn: Elektroteknik\, civilingenjör\, Klasskod: TKMED-1. Klassnamn: Medicinteknik\, civilingenjör
+UID:162854-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#bde804eb-2fb1-4f19-8483-383232abfdcf
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260511T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: E2 Kurslabb 5225. Kartlänk: https://maps.chalmers.se/#d3877982-ae64-40be-b1b7-810aa16b997e. Campus: Johanneberg
+DTSTART:20260511T111500Z
+SUMMARY:Medicinsk elektronik
+UID:100974-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#d3877982-ae64-40be-b1b7-810aa16b997e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260524
+DTSTAMP:20260505T054754Z
+DESCRIPTION:2026-05-23 22:00 - 2026-05-24 22:00\nID 1820408
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Medicin för tekniker - Pingstdagen
+UID:1820408-1094642488-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260520T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HC4. Kartlänk: https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e. Campus: Johanneberg
+DTSTART:20260520T111500Z
+SUMMARY:Flervariabelanalys
+UID:102320-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260508T094500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: SB3-L110. Kartlänk: https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c. Campus: Johanneberg \nLokalnamn: SB3-L111. Kartlänk: https://maps.chalmers.se/#d49e08b0-45fa-11ec-adea-17a2f032c1c2. Campus: Johanneberg
+DTSTART:20260508T080000Z
+SUMMARY:Flervariabelanalys
+UID:115717-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#e4597050-45fa-11ec-94a4-a5e4d1b8e10c
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260605
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Title: Ledigt/Holiday
+UID:8318-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260514
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Title: Kristi himmelsfärdsdag/Holiday
+UID:6081-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260513T130000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HC4. Kartlänk: https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e. Campus: Johanneberg
+DTSTART:20260513T111500Z
+SUMMARY:Flervariabelanalys
+UID:102319-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260606
+DTSTAMP:20260505T054754Z
+LAST-MODIFIED:20260505T054754Z
+SUMMARY:Title: Sveriges nationaldag
+UID:6084-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260518T074500Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: HC4. Kartlänk: https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e. Campus: Johanneberg
+DTSTART:20260518T060000Z
+SUMMARY:Flervariabelanalys
+UID:102311-569704435-0@timeedit.com
+URL:https://maps.chalmers.se/#0c6e916b-be29-4ee9-938f-a919d2a32a8e
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260506T100000Z
+LAST-MODIFIED:20260505T054754Z
+DTSTART:20260506T070000Z
+SUMMARY:Medicinsk elektronik
+UID:164446-569704435-0@timeedit.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260505T054754Z
+DTEND:20260505T150000Z
+LAST-MODIFIED:20260505T054754Z
+LOCATION:Lokalnamn: EL41. Kartlänk: https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d. Campus: Johanneberg
+DTSTART:20260505T131500Z
+SUMMARY:Medicinsk elektronik
+UID:100941-569704435-0@timeedit.com
 URL:https://maps.chalmers.se/#72992330-dc2b-4923-a832-84d3cd97746d
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20260216T050552Z
-DTEND:20260313T084500Z
-LAST-MODIFIED:20260216T050552Z
-LOCATION:Room: SB-D025. Map link: https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687. Computer: 25. Campus: Johanneberg \nRoom: SB-D040. Map link: https://maps.chalmers.se/#fd6d074d-3f54-40a7-8c35-ca9329ae2413. Computer: 32. Campus: Johanneberg \nRoom: SB-D080. Map link: https://maps.chalmers.se/#2be8826b-4ccf-4a71-a421-5840b2d408c8. Computer: 62. Campus: Johanneberg
-DTSTART:20260313T070000Z
-SUMMARY:Grundläggande programutveckling - Handledning
-UID:103948-569704435-0@timeedit.com
-URL:https://maps.chalmers.se/#f624dbca-aff9-4198-9ad6-cf305453f687
 END:VEVENT
 END:VCALENDAR

@@ -13,14 +13,14 @@ all_events = []
 chalmersData = requests.get(ChalmersTimeEdit)
 chalmersC = Calendar(chalmersData.text)
 
-guMedData = requests.get(guMedTimeEdit)
-guMedC = Calendar(guMedData.text)
+# guMedData = requests.get(guMedTimeEdit)
+# guMedC = Calendar(guMedData.text)
 
 for chalmersE in chalmersC.events:
     print("Original name:", chalmersE.name)
     kurs_match = re.search(r"\b(?:Kurs\s?namn|Titel|Course\s?name):\s*([^,]+)", chalmersE.name)
 
-    activity_match = re.search(r"Activity:\s*([^,\.]+)", chalmersE.name)
+    activity_match = re.search(r"\b(?:Activity|Aktivitet):\s*([^,\.]+)", chalmersE.name)
 
     kurskod_match = re.search(r"Kurs kod:\s*([^,\._]+)", chalmersE.name)
 
@@ -40,13 +40,14 @@ for chalmersE in chalmersC.events:
 
     chalmersE.description = ""  # remove description
 
+    all_events.append(chalmersE)
 
-    if not kurskod == guMedCode:
-        all_events.append(chalmersE)
+#     if not kurskod == guMedCode:
+#         all_events.append(chalmersE)
 
-for guMedEvent in guMedC.events:
-    guMedEvent.name = f"Medicin för tekniker - {guMedEvent.name.split(",", 1)[1].strip() if (len(guMedEvent.name.split(",", 1)) > 1) else guMedEvent.name}"
-    all_events.append(guMedEvent)
+# for guMedEvent in guMedC.events:
+#     guMedEvent.name = f"Medicin för tekniker - {guMedEvent.name.split(",", 1)[1].strip() if (len(guMedEvent.name.split(",", 1)) > 1) else guMedEvent.name}"
+#     all_events.append(guMedEvent)
 
 
 print(all_events)
